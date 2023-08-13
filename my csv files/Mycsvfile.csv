@@ -1,0 +1,12 @@
+Id,Name,Age,Gender,City,Mobile_no,Email,Password,Blood_Group,Created_On
+,Priya,21,female,chennai,9876543211,p@gmail.com,Priya,A-,
+,rose,22,femlae,coimbatore,9876543210,rose@gmail.com,Rose,A+,
+,kalyan,21,female,coimbatore,9876543220,kalyan@gmail.com,Kalyan,AB-,
+,kaif,21,male,chennai,9876543230,kaif@gmail.com,Kaif,O+,
+,hari,22,male,thoothukudi,9876543240,hari@gmail.com,Hari,O-,
+,nivi,21,female,perambalur,9876543250,nivi@gmail.com,Nivi,B+,
+,baala,20,male,kadalur,9876543260,b@gmail.com,Baala,B-,
+,vp,20,male,kovilpatti,9876543270,vp@gmail.com,Vp,A-,
+,kaakz,19,female,trichy,9876543280,kirukki@gmail.com,Kaakz,AB+,
+,Anuja,20,female,vedaranyam,9876543290,kolantha@gmail.com,Anuja,A+,
+,janshu,23,female,erode,9876543299,janshu@gmail.com,Janshu,O+,
